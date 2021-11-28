@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nat1754/nat1754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Dino](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/dino.gif)
+
+
+
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
